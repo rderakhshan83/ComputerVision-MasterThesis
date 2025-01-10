@@ -78,3 +78,5 @@ Further research could explore improved image augmentation techniques, include m
 
 ## License:
 This project is licensed under the MIT License.
+
+Thanks
